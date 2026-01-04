@@ -1,0 +1,17 @@
+# Eclipse配置文件
+.classpath
+.project
+.settings/
+# 编译输出目录
+target/
+build/
+# 临时文件
+*.log
+*.tmp
+# 数据库相关（若有本地数据库文件）
+*.db
+# IDE缓存
+.idea/
+.vscode/
+*.swp
+*.swo
